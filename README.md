@@ -1,4 +1,4 @@
-# Proposal: Hybrid AI Framework Utilizing SLM to Augment LLM in End User Computing
+# Hybrid AI Framework Utilizing SLM to Augment LLM in End User Computing
 ## 1. Introduction
 
 Artificial Intelligence (AI) has become a pivotal element in end user computing, offering advanced capabilities and automation. However, the resource demands of Large Language Models (LLMs) often exceed the capacity of typical end user devices, such as personal computers and mobile devices. Small Language Models (SLMs) offer a more feasible alternative, but they lack the performance and capabilities of their larger counterparts. This proposal presents a hybrid AI framework where SLMs (running locally) co-work with LLMs (accessed via inference APIs or vendor servers) to overcome these limitations.
